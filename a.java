@@ -1,4 +1,3 @@
-public class A{
-    char a = 'A'
-    print(a)
+public class a {
+    char a = 'A' ;
 }
