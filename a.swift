@@ -1,1 +1,1 @@
-print(a)
+pint(a)
