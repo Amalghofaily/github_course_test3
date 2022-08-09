@@ -1,8 +1,15 @@
-public class First {
+package exlcode;
 
-  public static int x1 = 5;
-  
+public class FieldsExample {
+
+  public static int exampleVariableOne = 5;
+  public static int exampleVariableTwo = 10;
+  public int exampleVariableThree;
+  private int exampleVariableFour;
+
   public static void main(String[] args) {
-    System.out.println(x1);
+    // this prints exampleVariableOne and exampleVariableTwo
+    System.out.println(exampleVariableOne);
+    System.out.println(exampleVariableTwo);
   }
 }
