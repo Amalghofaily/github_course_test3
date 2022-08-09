@@ -1,1 +1,3 @@
-print(x)
+class Amal{
+    
+}
